@@ -14,7 +14,7 @@ AI Article Summarizer er en innovativ webbaseret applikation, der bruger OpenAI'
 ### Teknologier
 
 - React Js
-- TypeScript
+- JavaScript
 - Vite
 - Tailwind CSS
 - Redux Toolkit
